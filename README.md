@@ -132,7 +132,7 @@ Stress-testing framework for formative higher-order constructs in PLS-SEM. Surfa
 |---|---|---|
 | **Graduate Researcher** | Beirut Arab University × LAU | Probabilistic clustering · Banking crisis regime detection |
 | **Statistician** | Center of Applied Statistics, BAU | End-to-end workflows · Cross-sectional & longitudinal data |
-| **Data Scientist** | metaSOFT *(Consulting)* | ML blueprint · Medical imaging pipelines · Cloud deployment |
+| **Data Scientist** | metaSOFT  | ML blueprint · Medical imaging pipelines · Cloud deployment |
 | **Teaching Assistant** | University of Szeged | Medical Statistics · R computing for medical students |
 
 ---
