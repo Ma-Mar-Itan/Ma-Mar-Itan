@@ -35,11 +35,20 @@
 
 ## &nbsp;◢&nbsp;&nbsp;Positioning
 
-> *I build probabilistic and machine-learning frameworks that locate the **latent structure governing observed instability** — where regimes shift, where systems fracture, where signals decouple from fundamentals.*
+## ◢ Positioning
 
-The work sits at an unusual intersection: **applied statistics**, **macro-financial systems**, and **sovereign AI research**. The unifying question is structural — *what hidden state generates the data we see, and at what threshold does it cease to apply?*
+I develop statistical and AI-assisted systems for understanding instability in complex adaptive systems.
 
-This question scales from a single bank's balance sheet to the resilience posture of a nation.
+The work focuses on the hidden structures beneath observed behavior: latent regimes, nonlinear dependencies, structural breaks, and the moments where the underlying **data-generating process** changes.
+
+The central question is:
+
+> **What mechanism is generating the system we observe — and when does that mechanism cease to apply?**
+
+This perspective spans macro-financial systems, institutional dynamics, machine learning, and large-scale inference under uncertainty. The objective is not merely prediction, but the identification of the structures, constraints, and regime shifts that govern complex systems across changing environments.
+
+From economic stress propagation to long-context reasoning systems, the goal is to build models that remain interpretable when the conditions that produced the data are themselves unstable.
+
 
 <br/>
 
