@@ -139,24 +139,69 @@ A macro-financial **digital twin** for national resilience research. Stratum is 
 
 <br/>
 
-### ▸ **Hidden Regimes of Financial Instability** &nbsp; <sub><i>research manuscript</i></sub>
+### ▸ **Research Pipeline** &nbsp; <sub><i>2 manuscripts under review · 1 in development</i></sub>
 
-Finite-mixture estimation of systemic banking-crisis regimes across **206 countries · 1970–2019**, with regime-specific panel-logit estimation of crisis hazard.
+A developing research program on latent regimes, structural heterogeneity, and instability in complex economic systems.
+
+<table border="0" width="100%">
+
+<tr>
+<td valign="top" width="4%">◇</td>
+<td>
+
+<b>Hidden Regimes of Financial Instability</b><br/>
+<sub><i>Manuscript under review</i></sub>
+
+Finite-mixture estimation of systemic banking-crisis regimes across <b>206 countries · 1970–2019</b>, with regime-specific panel-logit estimation of crisis hazard.
 
 <p>
-  <img src="https://img.shields.io/badge/EM%20Mixture%20Estimation-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Regime--Specific%20Panel%20Logit-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cross--Country%20Clustering-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Early--Warning%20Surveillance-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Finite%20Mixtures-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Panel%20Logit-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Systemic%20Banking%20Crises-6B7280?style=flat-square"/>
 </p>
 
-<sub><i>Principal investigators · Dr. M. Araissi · Dr. N. Yassine</i></sub>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td valign="top" width="4%">◇</td>
+<td>
 
----
+<b>The Illusion of Predictability</b><br/>
+<sub><i>Manuscript under review</i></sub>
 
-<br/>
+A study of structural heterogeneity and informational noise in corporate greenwashing predictability, using adaptive modeling to examine how predictive signals fragment across latent regimes.
+
+<p>
+  <img src="https://img.shields.io/badge/Recursive%20Partitioning-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Structural%20Heterogeneity-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Greenwashing%20Signals-6B7280?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="4%">◇</td>
+<td>
+
+<b>Third Manuscript</b><br/>
+<sub><i>In development</i></sub>
+
+An extension of the broader research agenda on complex systems, economic intelligence, regime instability, and data-generating processes under uncertainty.
+
+<p>
+  <img src="https://img.shields.io/badge/In%20Development-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Complex%20Systems-6B7280?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Economic%20Intelligence-6B7280?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+
+</table>
+
+<sub><i>Research supervision · Dr. M. Araissi · Dr. N. Yassine</i></sub>
 
 ## ◢ Methods
 
@@ -340,6 +385,7 @@ Quantifies how observational geometry induces spatial bias in spectral-index est
 ## ◢ Publications & Manuscripts
 
 <table border="0" width="100%">
+
 <tr>
 <td valign="top" width="5%">◇</td>
 <td>
@@ -364,14 +410,23 @@ Quantifies how observational geometry induces spatial bias in spectral-index est
 <td valign="top" width="5%">◇</td>
 <td>
 
+<b>Third Manuscript</b><br/>
+<sub><i>In development</i></sub>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="5%">◇</td>
+<td>
+
 <b>Gold nanoparticles-coated polystyrene beads for the multiplex detection of viral DNA</b><br/>
 <sub><i>Sensors and Actuators B: Chemical · 2017</i></sub>
 
 </td>
 </tr>
-</table>
 
-<br/>
+</table>
 
 ---
 
