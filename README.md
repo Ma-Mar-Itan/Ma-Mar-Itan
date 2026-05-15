@@ -5,21 +5,21 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a3e,100:0a0e27&height=180&section=header&text=Malek%20M.%20Itani&fontSize=52&fontColor=e8eaf6&fontAlignY=38&desc=Applied%20Statistics%20%C2%B7%20Macro-Financial%20Systems%20%C2%B7%20Sovereign%20AI%20Research&descSize=14&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0f,50:14171a,100:0b0d0f&height=180&section=header&text=Malek%20M.%20Itani&fontSize=52&fontColor=e8eaf6&fontAlignY=38&desc=Applied%20Statistics%20%C2%B7%20Macro-Financial%20Systems%20%C2%B7%20Sovereign%20AI%20Research&descSize=14&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="banner"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1200&color=8B95C9&center=true&vCenter=true&width=720&height=30&lines=Latent-regime+inference+in+complex+adaptive+systems;Macro-financial+digital+twins+%C2%B7+systemic+risk+propagation;Probabilistic+modeling+at+the+edge+of+instability;Computational+statecraft+%C2%B7+economic+intelligence+infrastructure" alt="research themes" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1200&color=9CA3AF&center=true&vCenter=true&width=720&height=30&lines=Latent-regime+inference+in+complex+adaptive+systems;Macro-financial+digital+twins+%C2%B7+systemic+risk+propagation;Probabilistic+modeling+at+the+edge+of+instability;Computational+statecraft+%C2%B7+economic+intelligence+infrastructure" alt="research themes" />
 
 <br/>
 
 <p>
-  <a href="mailto:malek.ma.itani@gmail.com"><img src="https://img.shields.io/badge/correspondence-malek.ma.itani-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=8B95C9"/></a>
+  <a href="mailto:malek.ma.itani@gmail.com"><img src="https://img.shields.io/badge/correspondence-malek.ma.itani-0b0d0f?style=for-the-badge&labelColor=14171a&color=9CA3AF"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/malek-ma-itani"><img src="https://img.shields.io/badge/network-linkedin-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=8B95C9"/></a>
+  <a href="https://linkedin.com/in/malek-ma-itani"><img src="https://img.shields.io/badge/network-linkedin-0b0d0f?style=for-the-badge&labelColor=14171a&color=9CA3AF"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/based-Beirut%20%C2%B7%20LB-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=8B95C9"/>
+  <img src="https://img.shields.io/badge/based-Beirut%20%C2%B7%20LB-0b0d0f?style=for-the-badge&labelColor=14171a&color=9CA3AF"/>
 </p>
 
 <sub><i>MSc Applied Statistics · CGPA 4.0 · Expected June 2026</i></sub>
@@ -91,7 +91,7 @@ Digital twins for national resilience, policy stress-testing, and the synthesis 
 ## &nbsp;◢&nbsp;&nbsp;Current Initiative
 
 <div align="center">
-<img src="https://img.shields.io/badge/AZRA%20SYSTEMS-Independent%20AI%20Research%20Lab-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=c5cae9"/>
+<img src="https://img.shields.io/badge/AZRA%20SYSTEMS-Independent%20AI%20Research%20Lab-0b0d0f?style=for-the-badge&labelColor=14171a&color=c5cae9"/>
 </div>
 
 <br/>
@@ -114,10 +114,10 @@ A macro-financial **digital twin** for national resilience research. Stratum ing
 Finite-mixture estimation of systemic banking-crisis regimes across **206 countries · 1970–2019**, with regime-specific panel-logit estimation of crisis hazard. Targeting peer-reviewed publication.
 
 <p>
-<img src="https://img.shields.io/badge/EM%20Mixture%20Estimation-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Regime--Specific%20Panel%20Logit-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Cross--Country%20Clustering-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Early--Warning%20Surveillance-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/EM%20Mixture%20Estimation-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Regime--Specific%20Panel%20Logit-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Cross--Country%20Clustering-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Early--Warning%20Surveillance-14171a?style=flat-square&color=9CA3AF"/>
 </p>
 
 <sub><i>Principal investigators · Dr. M. Araissi (LAU) · Dr. N. Yassine (BAU)</i></sub>
@@ -139,30 +139,30 @@ Finite-mixture estimation of systemic banking-crisis regimes across **206 countr
 
 **Probabilistic Inference**
 
-<img src="https://img.shields.io/badge/Bayesian-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Finite%20Mixtures-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Hidden%20State-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/EVT-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/Bayesian-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Finite%20Mixtures-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Hidden%20State-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/EVT-14171a?style=flat-square&color=9CA3AF"/>
 
 </td>
 <td align="center" width="33%">
 
 **Structural Econometrics**
 
-<img src="https://img.shields.io/badge/Panel%20Models-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Structural%20Breaks-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Survival-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Time%20Series-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/Panel%20Models-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Structural%20Breaks-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Survival-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Time%20Series-14171a?style=flat-square&color=9CA3AF"/>
 
 </td>
 <td align="center" width="33%">
 
 **Machine Learning**
 
-<img src="https://img.shields.io/badge/Recursive%20Partitioning-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/System%20ID-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Long--Context%20Reasoning-1a1a3e?style=flat-square&color=8B95C9"/>
-<img src="https://img.shields.io/badge/Uncertainty%20Quant-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/Recursive%20Partitioning-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/System%20ID-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Long--Context%20Reasoning-14171a?style=flat-square&color=9CA3AF"/>
+<img src="https://img.shields.io/badge/Uncertainty%20Quant-14171a?style=flat-square&color=9CA3AF"/>
 
 </td>
 </tr>
@@ -181,14 +181,14 @@ Finite-mixture estimation of systemic banking-crisis regimes across **206 countr
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=8B95C9)
-![R](https://img.shields.io/badge/R-0a0e27?style=for-the-badge&logo=r&logoColor=8B95C9)
-![SQL](https://img.shields.io/badge/SQL-0a0e27?style=for-the-badge&logo=postgresql&logoColor=8B95C9)
-![Git](https://img.shields.io/badge/Git-0a0e27?style=for-the-badge&logo=git&logoColor=8B95C9)
-![AWS](https://img.shields.io/badge/AWS-0a0e27?style=for-the-badge&logo=amazonaws&logoColor=8B95C9)
-![GCP](https://img.shields.io/badge/GCP-0a0e27?style=for-the-badge&logo=googlecloud&logoColor=8B95C9)
-![Azure](https://img.shields.io/badge/Azure-0a0e27?style=for-the-badge&logo=microsoftazure&logoColor=8B95C9)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e27?style=for-the-badge&logo=pytorch&logoColor=8B95C9)
+![Python](https://img.shields.io/badge/Python-0b0d0f?style=for-the-badge&logo=python&logoColor=9CA3AF)
+![R](https://img.shields.io/badge/R-0b0d0f?style=for-the-badge&logo=r&logoColor=9CA3AF)
+![SQL](https://img.shields.io/badge/SQL-0b0d0f?style=for-the-badge&logo=postgresql&logoColor=9CA3AF)
+![Git](https://img.shields.io/badge/Git-0b0d0f?style=for-the-badge&logo=git&logoColor=9CA3AF)
+![AWS](https://img.shields.io/badge/AWS-0b0d0f?style=for-the-badge&logo=amazonaws&logoColor=9CA3AF)
+![GCP](https://img.shields.io/badge/GCP-0b0d0f?style=for-the-badge&logo=googlecloud&logoColor=9CA3AF)
+![Azure](https://img.shields.io/badge/Azure-0b0d0f?style=for-the-badge&logo=microsoftazure&logoColor=9CA3AF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0d0f?style=for-the-badge&logo=pytorch&logoColor=9CA3AF)
 
 </div>
 
@@ -207,9 +207,9 @@ Finite-mixture estimation of systemic banking-crisis regimes across **206 countr
 
 ### &nbsp;◇&nbsp; stressPLS
 
-[![Repo](https://img.shields.io/badge/repository-181a2e?style=flat-square&logo=github&logoColor=8B95C9)](https://github.com/Ma-Mar-Itan/StressPLS)
+[![Repo](https://img.shields.io/badge/repository-181a2e?style=flat-square&logo=github&logoColor=9CA3AF)](https://github.com/Ma-Mar-Itan/StressPLS)
 &nbsp;
-![Status](https://img.shields.io/badge/lifecycle-experimental-1a1a3e?style=flat-square&color=c5cae9)
+![Status](https://img.shields.io/badge/lifecycle-experimental-14171a?style=flat-square&color=c5cae9)
 
 Stress-testing framework for **formative higher-order constructs** in PLS-SEM. Surfaces structural fragility that passes standard VIF and R² diagnostics — targeting methodological publication.
 
@@ -220,7 +220,7 @@ Stress-testing framework for **formative higher-order constructs** in PLS-SEM. S
 
 ### &nbsp;◇&nbsp; Latent-Regime Surveillance
 
-<img src="https://img.shields.io/badge/manuscript-in%20preparation-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/manuscript-in%20preparation-14171a?style=flat-square&color=9CA3AF"/>
 
 Country-level **risk-regime estimation** from macro-financial and institutional indicators across five decades. Builds interpretable early-warning surveillance over 206 sovereign jurisdictions.
 
@@ -233,7 +233,7 @@ Country-level **risk-regime estimation** from macro-financial and institutional 
 
 ### &nbsp;◇&nbsp; Project Stratum &nbsp;<sub><i>private</i></sub>
 
-<img src="https://img.shields.io/badge/AZRA%20Systems-classified%20development-1a1a3e?style=flat-square&color=8B95C9"/>
+<img src="https://img.shields.io/badge/AZRA%20Systems-classified%20development-14171a?style=flat-square&color=9CA3AF"/>
 
 Macro-financial **digital twin** for sovereign resilience research. Simulates systemic-risk propagation across fiscal, financial, and external sectors under heterogeneous policy regimes.
 
@@ -244,7 +244,7 @@ Macro-financial **digital twin** for sovereign resilience research. Simulates sy
 
 ### &nbsp;◇&nbsp; Sampling-Bias Geometry
 
-[![Repo](https://img.shields.io/badge/repository-181a2e?style=flat-square&logo=github&logoColor=8B95C9)](https://github.com/Ma-Mar-Itan/Flight-Mission-Sampling-Simulator)
+[![Repo](https://img.shields.io/badge/repository-181a2e?style=flat-square&logo=github&logoColor=9CA3AF)](https://github.com/Ma-Mar-Itan/Flight-Mission-Sampling-Simulator)
 
 Quantifies how **mission-geometry parameters** induce spatial bias in spectral-index estimation — a study in how observational protocols silently shape inferred state.
 
@@ -340,13 +340,13 @@ A biosensing platform achieving 5 nM sensitivity and simultaneous discrimination
 <br/>
 
 <a href="mailto:malek.ma.itani@gmail.com">
-  <img src="https://img.shields.io/badge/✦%20%20research%20%26%20collaboration-malek.ma.itani%40gmail.com-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=c5cae9"/>
+  <img src="https://img.shields.io/badge/✦%20%20research%20%26%20collaboration-malek.ma.itani%40gmail.com-0b0d0f?style=for-the-badge&labelColor=14171a&color=c5cae9"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/malek-ma-itani">
-  <img src="https://img.shields.io/badge/✦%20%20professional%20network-linkedin-0a0e27?style=for-the-badge&labelColor=1a1a3e&color=c5cae9"/>
+  <img src="https://img.shields.io/badge/✦%20%20professional%20network-linkedin-0b0d0f?style=for-the-badge&labelColor=14171a&color=c5cae9"/>
 </a>
 
 <br/><br/>
@@ -355,6 +355,6 @@ A biosensing platform achieving 5 nM sensitivity and simultaneous discrimination
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a3e,100:0a0e27&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0f,50:14171a,100:0b0d0f&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
