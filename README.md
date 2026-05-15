@@ -33,7 +33,6 @@
 
 <br/>
 
-## &nbsp;◢&nbsp;&nbsp;Positioning
 
 ## ◢ Positioning
 
