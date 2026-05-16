@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=9CA3AF&center=true&vCenter=true&width=780&height=28&lines=Data-generating+processes+%C2%B7+latent+structure+%C2%B7+regime+change;Complex+systems+under+nonstationarity;Inference+when+the+mechanism+itself+changes;Statistical+systems+for+unstable+environments" alt="research themes"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=9CA3AF&center=true&vCenter=true&width=780&height=28&lines=Data-generating+processes+%C2%B7+Latent+structure+%C2%B7+Regime+change;Complex+systems+under+nonstationarity;Inference+when+the+mechanism+itself+changes;Statistical+systems+for+unstable+environments" alt="research themes"/>
 
 <br/>
 
