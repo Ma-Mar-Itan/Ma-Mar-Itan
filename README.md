@@ -1,490 +1,321 @@
 <div align="center">
 
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,45:101214,100:ffffff&height=210&section=header&text=Malek%20M.%20Itani&fontSize=54&fontColor=e5e7eb&fontAlignY=36&desc=Applied%20Statistics%20%C2%B7%20Complex%20Systems%20%C2%B7%20AI%20Research&descSize=15&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Malek M. Itani"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,45:101214,100:ffffff&height=215&section=header&text=Malek%20M.%20Itani&fontSize=54&fontColor=e5e7eb&fontAlignY=35&desc=Applied%20Statistics%20%C2%B7%20Quantitative%20Research%20%C2%B7%20Econometrics%20%C2%B7%20Model%20Risk&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Malek M. Itani"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=9CA3AF&center=true&vCenter=true&width=780&height=28&lines=Data-generating+processes+%C2%B7+Latent+structure+%C2%B7+Regime+change;Complex+systems+under+nonstationarity;Inference+when+the+mechanism+itself+changes;Statistical+systems+for+unstable+environments" alt="research themes"/>
-
-<br/>
+### I build statistical models for systems whose governing relationships change across regimes.
 
 <p>
-  <a href="mailto:malek.ma.itani@gmail.com">
-    <img src="https://img.shields.io/badge/correspondence-malek.ma.itani-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/malek-ma-itani">
-    <img src="https://img.shields.io/badge/network-linkedin-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/based-Beirut%20%C2%B7%20LB-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
+  <a href="mailto:malek.ma.itani@gmail.com"><img src="https://img.shields.io/badge/Email-malek.ma.itani%40gmail.com-111315?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/malek-ma-itani"><img src="https://img.shields.io/badge/LinkedIn-Malek%20M.%20Itani-111315?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Ma-Mar-Itan"><img src="https://img.shields.io/badge/GitHub-Ma--Mar--Itan-111315?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Beirut-Lebanon-111315?style=flat-square&logo=googlemaps&logoColor=white" alt="Beirut, Lebanon"/>
 </p>
 
-<sub><i>MSc Applied Statistics · CGPA 4.0 · Expected June 2026</i></sub>
+**MSc Applied Statistics · CGPA 4.0/4.0 · Beirut Arab University · Expected June 2026**
 
-</div>
-
-<br/>
-
-
-
----
-
-<br/>
-
-## ◢ Positioning
-
-I develop statistical and AI-assisted systems for understanding instability in complex adaptive systems.
-
-The work focuses on the hidden structure beneath observed behavior: latent regimes, nonlinear dependencies, structural breaks, and the moments where the underlying **data-generating process** changes.
-
-The central question is:
-
-> **What mechanism is generating the system we observe — and when does that mechanism cease to apply?**
-
-This perspective spans applied statistics, machine learning, institutional systems, economic intelligence, and large-scale inference under uncertainty. The objective is not merely prediction, but the identification of the structures, constraints, and regime shifts that govern complex systems across changing environments.
-
-From economic stress propagation to long-context reasoning systems, the goal is to build models that remain interpretable when the conditions that produced the data are themselves unstable.
-
-<br/>
-
----
-
-<br/>
-
-## ◢ Research Domains
-
-<table border="0" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-<h4>◇ Complex Systems Inference</h4>
-
-<p>
-Modeling systems whose behavior is shaped by nonlinear dependencies, feedback loops, regime transitions, and partially observed state variables.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>◇ Data-Generating Processes</h4>
-
-<p>
-Studying how observed data emerges from hidden mechanisms, and how inference changes when those mechanisms become unstable, fragmented, or regime-dependent.
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h4>◇ Economic Intelligence</h4>
-
-<p>
-Building analytical systems for mapping institutional, fiscal, financial, trade, and policy signals into coherent representations of systemic risk.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>◇ AI Reasoning Infrastructure</h4>
-
-<p>
-Using long-context reasoning, model evaluation, and structured workflows to connect unstructured evidence with statistical and econometric models.
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## ◢ Current Initiative
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AZRA%20SYSTEMS-Independent%20AI%20Research%20Lab-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
-</div>
-
-<br/>
-
-### ▸ **Project Stratum** &nbsp; <sub><i>flagship · in development</i></sub>
-
-A macro-financial **digital twin** for national resilience research. Stratum is designed to synthesize econometric, institutional, and macro-prudential signals into interpretable scenario surfaces for stress-testing complex systems under uncertainty.
-
-<table border="0" width="100%">
-<tr>
-<td valign="top" width="3%">›</td>
-<td>Models <b>systemic-risk propagation</b> across fiscal, financial, external, and institutional channels.</td>
-</tr>
-<tr>
-<td valign="top" width="3%">›</td>
-<td>Stress-tests <b>policy scenarios</b> under heterogeneous regime assumptions.</td>
-</tr>
-<tr>
-<td valign="top" width="3%">›</td>
-<td>Connects <b>structured econometric signals</b> with unstructured institutional and policy evidence.</td>
-</tr>
-<tr>
-<td valign="top" width="3%">›</td>
-<td>Generates <b>interpretable counterfactuals</b>: not black-box forecasts, but auditable causal chains.</td>
-</tr>
-</table>
-
-<br/>
-
-### ▸ **Research Pipeline** &nbsp; <sub><i>2 manuscripts under review · 1 in development</i></sub>
-
-A developing research program on latent regimes, structural heterogeneity, and instability in complex economic systems.
-
-<table border="0" width="100%">
-
-<tr>
-<td valign="top" width="4%">◇</td>
-<td>
-
-<b>Hidden Regimes of Financial Instability</b><br/>
-<sub><i>Manuscript under review</i></sub>
-
-Finite-mixture estimation of systemic banking-crisis regimes across <b>206 countries · 1970–2019</b>, with regime-specific panel-logit estimation of crisis hazard.
-
-<p>
-  <img src="https://img.shields.io/badge/Finite%20Mixtures-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Panel%20Logit-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Systemic%20Banking%20Crises-6B7280?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="4%">◇</td>
-<td>
-
-<b>The Illusion of Predictability</b><br/>
-<sub><i>Manuscript under review</i></sub>
-
-A study of structural heterogeneity and informational noise in corporate greenwashing predictability, using adaptive modeling to examine how predictive signals fragment across latent regimes.
-
-<p>
-  <img src="https://img.shields.io/badge/Recursive%20Partitioning-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Structural%20Heterogeneity-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Greenwashing%20Signals-6B7280?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="4%">◇</td>
-<td>
-
-<b>Third Manuscript</b><br/>
-<sub><i>In development</i></sub>
-
-An extension of the broader research agenda on complex systems, economic intelligence, regime instability, and data-generating processes under uncertainty.
-
-<p>
-  <img src="https://img.shields.io/badge/In%20Development-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Complex%20Systems-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Economic%20Intelligence-6B7280?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-
-</table>
-
-<sub><i>Research supervision · Dr. M. Araissi · Dr. N. Yassine</i></sub>
-
-## ◢ Methods
-
-<div align="center">
-
-<table border="0" width="100%">
-<tr>
-<td align="center" width="33%" valign="top">
-
-<h4>Probabilistic Inference</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/Bayesian-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Finite%20Mixtures-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hidden%20State-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Uncertainty%20Quantification-6B7280?style=flat-square"/>
-</p>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h4>Structural Modeling</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/Panel%20Models-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Structural%20Breaks-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Regime%20Dependence-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Time%20Series-6B7280?style=flat-square"/>
-</p>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h4>Machine Learning</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/Recursive%20Partitioning-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Identification-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Long--Context%20Reasoning-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Foundation%20Model%20Evaluation-6B7280?style=flat-square"/>
-</p>
-
-</td>
+<td align="center"><strong>2</strong><br/><sub>papers under peer review</sub></td>
+<td align="center"><strong>206</strong><br/><sub>economies modeled</sub></td>
+<td align="center"><strong>50 years</strong><br/><sub>macro-financial data</sub></td>
+<td align="center"><strong>4,584</strong><br/><sub>firm observations analyzed</sub></td>
+<td align="center"><strong>42</strong><br/><sub>research projects reviewed</sub></td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+---
+
+## Research Focus
+
+I am an applied statistician and quantitative researcher working on **latent structure, parameter instability, nonstationarity, and prediction under distribution shift**.
+
+My central research question is:
+
+> **When a model becomes unstable, is the problem poor estimation—or evidence that the data are being generated by a different mechanism?**
+
+I study this problem using probabilistic modeling, econometrics, recursive partitioning, resampling, and out-of-sample validation. The aim is not only to improve fit, but to determine whether a global relationship is structurally meaningful, locally conditional, or simply an average across incompatible regimes.
+
+**Current direction:** quantitative research · macro-financial risk · model risk · regime detection · interpretable machine learning · statistical validation
 
 ---
 
+## Featured Research
+
+### *Beyond Average Effects: Hidden Heterogeneity, Regime Dependence, and the Limits of Predictability*
+
+My MSc project consists of **two independent papers currently under peer review**. Both examine the same statistical failure point from different directions: what happens when a single global model is imposed on observations generated by several hidden processes?
+
+---
+
+## 01 · Hidden Regimes of Financial Instability
+
+### *A Finite Mixture Modelling Approach to Systemic Banking Crises*
+
+<p>
+  <img src="https://img.shields.io/badge/status-under%20peer%20review-6B7280?style=flat-square" alt="Under peer review"/>
+  <img src="https://img.shields.io/badge/domain-macro--finance-111315?style=flat-square" alt="Macro-finance"/>
+  <img src="https://img.shields.io/badge/JEL-G01%20%C2%B7%20C38%20%C2%B7%20E44-111315?style=flat-square" alt="JEL classification"/>
+</p>
+
+> **A single global crisis equation does not adequately describe systemic banking failures. The data support two structurally different mechanisms of financial instability.**
+
+<table>
+<tr>
+<td align="center"><strong>206</strong><br/><sub>economies</sub></td>
+<td align="center"><strong>1970–2019</strong><br/><sub>study period</sub></td>
+<td align="center"><strong>2 regimes</strong><br/><sub>selected by BIC and ICL</sub></td>
+<td align="center"><strong>0.184</strong><br/><sub>pooled pseudo-R²</sub></td>
+<td align="center"><strong>0.411</strong><br/><sub>strongest regime pseudo-R²</sub></td>
+</tr>
+</table>
+
+I estimated finite-mixture models across **one to ten components**, recovered latent country regimes through expectation-maximization, and then fitted regime-specific fixed-effects logit models with country-clustered inference.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>Regime I · External Fragility</h4>
+<p>Crisis risk is primarily associated with <strong>exchange-rate depreciation</strong>, weaker growth, and external-financing vulnerability. Foreign direct investment enters as a stabilizing signal within this regime.</p>
+</td>
+<td width="50%" valign="top">
+<h4>Regime II · Endogenous Macro-Financial Pressure</h4>
+<p>The dominant signal shifts toward <strong>inflation</strong>, <strong>globalization exposure</strong>, and domestic financial conditions, while exchange-rate depreciation loses explanatory relevance.</p>
+</td>
+</tr>
+</table>
+
+The substantive result is not merely that coefficients change magnitude. **The identity of the informative predictors changes across regimes.** A universal surveillance model can therefore assign the wrong weights to the wrong signals for a given country.
+
+<details>
+<summary><strong>Technical design and robustness</strong></summary>
+
 <br/>
 
-## ◢ Stack
+- Finite-mixture model selection using **AIC, BIC, ICL, and entropy**
+- Posterior regime assignment through the **expectation-maximization algorithm**
+- Regime-specific **fixed-effects logit** models with clustered inference
+- Extended specifications incorporating credit, reserves, trade, and institutional controls
+- **Two-stage residual inclusion** for nonlinear endogeneity
+- **Country-block bootstrap** inference
+- Lagged-covariate specifications to strengthen temporal ordering
+
+</details>
+
+`R` `Finite Mixtures` `Expectation-Maximization` `Panel Logit` `2SRI` `Block Bootstrap`
+
+---
+
+## 02 · The Illusion of Predictability
+
+### *Structural Heterogeneity and Informational Noise in Corporate Greenwashing*
+
+<p>
+  <img src="https://img.shields.io/badge/status-under%20peer%20review-6B7280?style=flat-square" alt="Under peer review"/>
+  <img src="https://img.shields.io/badge/domain-corporate%20prediction-111315?style=flat-square" alt="Corporate prediction"/>
+  <img src="https://img.shields.io/badge/focus-model%20risk%20%C2%B7%20signal%20stability-111315?style=flat-square" alt="Model risk and signal stability"/>
+</p>
+
+> **Recursive partitioning uncovers locally stronger models, yet aggregate out-of-sample prediction does not improve. Hidden structure exists, but it does not produce a stable global signal.**
+
+<table>
+<tr>
+<td align="center"><strong>4,584</strong><br/><sub>observations</sub></td>
+<td align="center"><strong>19</strong><br/><sub>predictors</sub></td>
+<td align="center"><strong>6</strong><br/><sub>local regimes</sub></td>
+<td align="center"><strong>0.062</strong><br/><sub>global OOS R²</sub></td>
+<td align="center"><strong>0.061</strong><br/><sub>MOB OOS R²</sub></td>
+<td align="center"><strong>0.252</strong><br/><sub>best local R²</sub></td>
+</tr>
+</table>
+
+I combined a global OLS benchmark with an **80/20 holdout design**, model-based recursive partitioning, node-level coefficient analysis, and repeated train-test stability testing.
+
+The global model generalized without substantial overfitting, but explained very little of the outcome. Recursive partitioning then recovered six local regimes, including one with an in-sample R² of **0.252**. Yet the more flexible regime-aware model produced an out-of-sample R² of **0.061**, effectively identical to the global OLS result of **0.062**.
+
+**Interpretation:** the weak aggregate signal is not simply caused by linear pooling or failure to detect nonlinear partitions. The observable information itself appears sparse, unstable, and insufficient for strong generalization.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>Predictive Ceiling</h4>
+<p>Across repeated resamples, median out-of-sample R² was <strong>0.055</strong>, with an interquartile range of <strong>[0.044, 0.064]</strong> and a maximum of only <strong>0.082</strong>.</p>
+</td>
+<td width="50%" valign="top">
+<h4>Coefficient Instability</h4>
+<p>Across <strong>51 regime-specific firm-size estimates</strong>, the coefficient was positive in 40 regimes and negative in 11—direct evidence of sign instability hidden by the pooled model.</p>
+</td>
+</tr>
+</table>
+
+This changes how low predictability should be interpreted. A low out-of-sample R² is not automatically evidence of a failed model. In strategic corporate settings, it can indicate that the observable signal is fragmented, conditional, or actively obscured—making the **limit of predictability itself** the object of inference.
+
+<details>
+<summary><strong>Technical design and stability diagnostics</strong></summary>
+
+<br/>
+
+- Global OLS benchmark using **19 firm-level predictors**
+- **80/20 train-test split** with RMSE, MAE, and out-of-sample R²
+- **Model-based recursive partitioning** using parameter-instability tests
+- Six terminal regimes with distinct local coefficient structures
+- Node-level comparison of predictor significance and sign
+- Ten repeated train-test splits producing **51 local firm-size coefficients**
+- Bootstrap distribution of out-of-sample performance and coefficient dispersion
+
+</details>
+
+`R` `Model-Based Recursive Partitioning` `Holdout Validation` `Bootstrap Stability` `Coefficient Sign Analysis`
+
+---
+
+## What the Research Establishes
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Structure Before Prediction</h3>
+<p>A model should not be trusted until the process generating its data has been examined for hidden regimes and parameter instability.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Average Effects Can Mislead</h3>
+<p>A pooled coefficient can be a weighted average of relationships that differ in magnitude, relevance, or sign across subpopulations.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Low Predictability Can Be Informative</h3>
+<p>Weak out-of-sample performance may reveal an informational ceiling rather than inadequate model complexity.</p>
+</td>
+</tr>
+</table>
+
+| Statistical problem | Evidence recovered |
+|---|---|
+| **Aggregation bias** | Pooled estimates conceal distinct crisis-generating mechanisms. |
+| **Parameter instability** | Coefficients vary across regimes and can reverse sign. |
+| **Predictive neutralization** | Stronger local fit does not guarantee better aggregate forecasting. |
+| **Model risk** | A stable global estimate can summarize no genuine local relationship. |
+| **Decision relevance** | Surveillance systems should identify regime structure before assigning signal weights. |
+
+<sub>Research supervision: Dr. Noura Yassine, Beirut Arab University · Dr. Mahmoud Araissi, Lebanese American University</sub>
+
+---
+
+## Selected Technical Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ma-Mar-Itan/StressPLS">stressPLS</a></h3>
+<p>A stress-testing framework for formative higher-order constructs in PLS-SEM. It evaluates whether apparently acceptable models remain structurally stable under resampling and alternative measurement conditions.</p>
+<p><code>R</code> <code>Bootstrap</code> <code>cSEM</code> <code>Sensitivity Analysis</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ma-Mar-Itan/Flight-Mission-Sampling-Simulator">Sampling-Bias Geometry</a></h3>
+<p>A simulation system showing how observation paths and sampling geometry can induce spatial bias in spectral-index estimation even when the underlying surface remains unchanged.</p>
+<p><code>Python</code> <code>Simulation</code> <code>Geospatial Sampling</code> <code>Plotly</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Acquisition-Aware Signal Validation</h3>
+<p>A Python-based falsification framework designed to distinguish genuine biological structure from acquisition-induced patterns in high-dimensional imaging data.</p>
+<p><code>Python</code> <code>High-Dimensional Data</code> <code>Falsification Testing</code> <code>Robustness</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>Project Stratum</h3>
+<p>An in-development quantitative research system for studying how fiscal, financial, external, and institutional shocks propagate through national systems under alternative regime assumptions.</p>
+<p><code>Scenario Analysis</code> <code>Systemic Risk</code> <code>Counterfactual Simulation</code></p>
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+### Statistician · Center of Applied Statistics, Beirut Arab University
+**August 2025–Present · Beirut, Lebanon**
+
+- Reviewed, verified, and quality-controlled statistical analysis across **42 research projects**.
+- Portfolio includes **14 PhD dissertations, 9 master's theses, and 19 research manuscripts**.
+- Work spans research design, statistical modeling, econometric analysis, diagnostic testing, interpretation, and reproducible reporting.
+
+### Data Scientist · metaSOFT
+
+- Developed analytical workflows for high-dimensional medical-imaging data.
+- Built Python-based validation procedures to separate biological signal from technical acquisition effects.
+- Contributed to reproducible model-evaluation and research pipelines.
+
+### Graduate Researcher · Lebanese American University × Beirut Arab University
+
+- Designed end-to-end research workflows covering data construction, probabilistic estimation, model validation, robustness analysis, and manuscript development.
+- Conducted research on systemic-risk regimes, corporate predictability, and the statistical consequences of hidden heterogeneity.
+
+---
+
+## Methods
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Probabilistic Modeling</h3>
+<p>Finite mixtures, latent classes, posterior classification, expectation-maximization, uncertainty-aware regime assignment.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Econometrics</h3>
+<p>Panel models, fixed-effects logit, robust and clustered inference, endogeneity diagnostics, 2SRI, lag structures.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Predictive Validation</h3>
+<p>Out-of-sample testing, recursive partitioning, structural-break analysis, bootstrap stability, simulation, and sensitivity analysis.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111315?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-111315?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-111315?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-111315?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/LaTeX-111315?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
+
+| Environment | Tools and methods |
+|---|---|
+| **Python** | pandas, NumPy, SciPy, scikit-learn, statsmodels, matplotlib, Plotly |
+| **R** | tidyverse, plm, flexmix, partykit, cSEM, boot, ggplot2 |
+| **Modeling** | finite mixtures, generalized linear models, panel econometrics, recursive partitioning, time series, structural breaks |
+| **Validation** | bootstrap inference, holdout testing, sensitivity analysis, simulation, falsification frameworks, model diagnostics |
+
+---
+
+## Publications & Manuscripts
+
+1. **Hidden Regimes of Financial Instability: A Finite Mixture Modelling Approach to Systemic Banking Crises** — manuscript under peer review.
+2. **The Illusion of Predictability: Structural Heterogeneity and Informational Noise in Corporate Greenwashing** — manuscript under peer review.
+3. **Acquisition-aware validation of biological signals in high-dimensional imaging data** — manuscript in preparation.
+4. **Gold nanoparticles-coated polystyrene beads for the multiplex detection of viral DNA** — *Sensors and Actuators B: Chemical*, 2017.
+
+---
+
+## Current Direction
+
+I am pursuing research-intensive opportunities in **quantitative finance, quantitative research, econometrics, model validation, and statistical machine learning**—particularly where the core problem is not merely fitting a model, but identifying when its assumptions stop describing the system.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b0d0f?style=for-the-badge&logo=python&logoColor=9CA3AF)
-![R](https://img.shields.io/badge/R-0b0d0f?style=for-the-badge&logo=r&logoColor=9CA3AF)
-![SQL](https://img.shields.io/badge/SQL-0b0d0f?style=for-the-badge&logo=postgresql&logoColor=9CA3AF)
-![Git](https://img.shields.io/badge/Git-0b0d0f?style=for-the-badge&logo=git&logoColor=9CA3AF)
-![AWS](https://img.shields.io/badge/AWS-0b0d0f?style=for-the-badge&logo=amazonaws&logoColor=9CA3AF)
-![GCP](https://img.shields.io/badge/GCP-0b0d0f?style=for-the-badge&logo=googlecloud&logoColor=9CA3AF)
-![Azure](https://img.shields.io/badge/Azure-0b0d0f?style=for-the-badge&logo=microsoftazure&logoColor=9CA3AF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0d0f?style=for-the-badge&logo=pytorch&logoColor=9CA3AF)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ◢ Selected Work
-
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>◇ stressPLS</h3>
+### Research · Quantitative Modeling · Collaboration
 
 <p>
-  <a href="https://github.com/Ma-Mar-Itan/StressPLS">
-    <img src="https://img.shields.io/badge/repository-111315?style=flat-square&logo=github&logoColor=9CA3AF"/>
-  </a>
-  <img src="https://img.shields.io/badge/lifecycle-experimental-6B7280?style=flat-square"/>
+  <a href="mailto:malek.ma.itani@gmail.com"><img src="https://img.shields.io/badge/Email-malek.ma.itani%40gmail.com-111315?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/malek-ma-itani"><img src="https://img.shields.io/badge/LinkedIn-Connect-111315?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p>
-Stress-testing framework for <b>formative higher-order constructs</b> in PLS-SEM. Surfaces structural fragility that passes standard VIF and R² diagnostics.
-</p>
-
-<p><sub>R · Bootstrap · cSEM</sub></p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>◇ Latent-Regime Surveillance</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/manuscript-under%20review-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/research-regime%20inference-111315?style=flat-square"/>
-</p>
-
-<p>
-Country-level risk-regime estimation from macro-financial and institutional indicators across five decades. Builds interpretable early-warning surveillance over sovereign jurisdictions.
-</p>
-
-<p><sub>EM · Panel Logit · Mixture Models</sub></p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-<h3>◇ Project Stratum <sub><i>private research</i></sub></h3>
-
-<p>
-  <img src="https://img.shields.io/badge/AZRA%20Systems-private%20development-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/system-digital%20twin-111315?style=flat-square"/>
-</p>
-
-<p>
-Macro-financial digital twin for national resilience research. Simulates systemic-risk propagation across fiscal, financial, external, and institutional channels under heterogeneous policy regimes.
-</p>
-
-<p><sub>Digital twin · Policy simulation · Counterfactual inference</sub></p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<br/>
-
-<h3>◇ Sampling-Bias Geometry</h3>
-
-<p>
-  <a href="https://github.com/Ma-Mar-Itan/Flight-Mission-Sampling-Simulator">
-    <img src="https://img.shields.io/badge/repository-111315?style=flat-square&logo=github&logoColor=9CA3AF"/>
-  </a>
-  <img src="https://img.shields.io/badge/method-sampling%20theory-6B7280?style=flat-square"/>
-</p>
-
-<p>
-Quantifies how observational geometry induces spatial bias in spectral-index estimation — a study in how measurement protocols silently shape inferred state.
-</p>
-
-<p><sub>Geospatial · Sampling theory · Plotly</sub></p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## ◢ Experience
-
-| | | |
-|---|---|---|
-| **Graduate Researcher** | LAU × BAU | Probabilistic modeling · Banking-crisis regime detection |
-| **Statistician** | Center of Applied Statistics, BAU | Research design · Econometric modeling · Applied inference |
-| **Data Scientist** | metaSOFT | ML systems · Medical-imaging pipelines · Foundation-model evaluation |
-| **Independent Consultant** | Various | AI strategy · Reproducible pipelines · LLM safety guardrails |
-
-<br/>
-
----
-
-<br/>
-
-## ◢ Publications & Manuscripts
-
-<table border="0" width="100%">
-
-<tr>
-<td valign="top" width="5%">◇</td>
-<td>
-
-<b>Hidden Regimes of Financial Instability: A Finite Mixture Modeling Approach to Systemic Banking Crises</b><br/>
-<sub><i>Manuscript under review</i></sub>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="5%">◇</td>
-<td>
-
-<b>The Illusion of Predictability: Structural Heterogeneity and Informational Noise in Corporate Greenwashing</b><br/>
-<sub><i>Manuscript under review</i></sub>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="5%">◇</td>
-<td>
-
-<b>Third Manuscript</b><br/>
-<sub><i>In development</i></sub>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="5%">◇</td>
-<td>
-
-<b>Gold nanoparticles-coated polystyrene beads for the multiplex detection of viral DNA</b><br/>
-<sub><i>Sensors and Actuators B: Chemical · 2017</i></sub>
-
-</td>
-</tr>
-
-</table>
-
----
-
-<br/>
-
-## ◢ Operating Philosophy
-
-<table border="0" width="100%">
-<tr>
-<td valign="top" width="4%"><b>I.</b></td>
-<td><b>Structure precedes prediction.</b> Before forecasting a system, identify the mechanism generating its data. A model that ignores its own conditioning will fail at the moment it matters.</td>
-</tr>
-<tr>
-<td valign="top" width="4%"><b>II.</b></td>
-<td><b>Instability is informative.</b> Breakdowns are not only deviations from equilibrium; they are moments where the topology of a system becomes visible.</td>
-</tr>
-<tr>
-<td valign="top" width="4%"><b>III.</b></td>
-<td><b>Interpretability is non-optional.</b> A model whose mechanism cannot be audited cannot support institutional reasoning under uncertainty.</td>
-</tr>
-<tr>
-<td valign="top" width="4%"><b>IV.</b></td>
-<td><b>Distribution shift is the default.</b> The world that produced the training data is not the world the model will operate in. Transportability is a first-order problem.</td>
-</tr>
-<tr>
-<td valign="top" width="4%"><b>V.</b></td>
-<td><b>Systems fail by changing their rules.</b> The critical problem is not only estimating parameters, but detecting when the data-generating process itself has changed.</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## ◢ Correspondence
-
-<br/>
-
-<a href="mailto:malek.ma.itani@gmail.com">
-  <img src="https://img.shields.io/badge/research%20%26%20collaboration-malek.ma.itani%40gmail.com-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/malek-ma-itani">
-  <img src="https://img.shields.io/badge/professional%20network-linkedin-0b0d0f?style=for-the-badge&labelColor=111315&color=9CA3AF"/>
-</a>
-
-<br/><br/>
-
-<sub><i>Open to research partnerships, applied modeling work, and complex-systems collaborations.</i></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0f,50:14171a,100:0b0d0f&height=90&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0f,50:14171a,100:0b0d0f&height=90&section=footer" width="100%" alt="footer"/>
 
 </div>
