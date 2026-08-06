@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/signal-under-stress.svg" width="100%" alt="Animated illustration: apparently stable observations separate into hidden regimes under diagnostic testing" />
+<img src="research-orbit.svg" width="100%" alt="Research Orbit">
+
 
 ### Statistical machine learning for reliable inference under heterogeneity, shift, and limited information
 
