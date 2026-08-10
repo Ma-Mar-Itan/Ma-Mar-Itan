@@ -76,9 +76,6 @@ A metadata-driven discrete-event framework for controlled comparison of scheduli
 </tr>
 </table>
 
-<div align="center">
-<img src="./assets/workflow-flow.svg" width="94%" alt="Animated scientific workflow: metadata tasks move through scheduling, heterogeneous compute, validation, and reporting" />
-</div>
 
 ## Research software
 
