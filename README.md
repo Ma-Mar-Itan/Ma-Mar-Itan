@@ -101,7 +101,6 @@ Scientific computing     simulation · reproducible pipelines · numerical evalu
 
 ## Selected experience
 
-- **Quantitative Research Intern, QFI** — leading development of an equity portfolio risk engine and coordinating a ten-person team.
 - **Researcher, Lebanese American University** — latent heterogeneity, systemic banking crises, corporate prediction, and firm-level nature dependence.
 - **Research Statistician, Center of Applied Statistics** — statistical design and analysis across more than 40 interdisciplinary projects.
 - **Data Scientist, metaSOFT** — multimodal medical AI, clinical modelling pipelines, and foundation-model reliability evaluation.
